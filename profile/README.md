@@ -1,12 +1,5 @@
-## Hi there 👋
+<samp><b>PROMPTMETHEUS</b></samp>
 
-<!--
+<samp>There are currently no public repositories you can contribute to, but there might be some in the future.</samp>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<samp><a href="https://promptmetheus.com">Website</a> &middot; <a href="https://promptmetheus.com/blog">Blog</a> &middot; <a href="https://forge.promptmetheus.com">Playground</a> &middot; <a href="https://stats.uptimerobot.com/N6r9otZ4p0">Status</a> &middot; <a href="https://promptmetheus.com/troubleshooting">Troubleshooting</a> 
